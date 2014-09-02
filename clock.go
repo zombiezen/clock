@@ -14,8 +14,8 @@
 	limitations under the License.
 */
 
-// Package clock provides interfaces for obtaining the current time and
-// sleeping.
+// Package clock provides an interface for obtaining the current time
+// and sleeping.
 package clock
 
 import (
