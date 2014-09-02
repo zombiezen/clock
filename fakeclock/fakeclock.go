@@ -21,7 +21,7 @@ import (
 	"sync"
 	"time"
 
-	"bitbucket.org/zombiezen/clock"
+	"github.com/zombiezen/clock"
 )
 
 // Clock implements clock.Clock by maintaining its own time.

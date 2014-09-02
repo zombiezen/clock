@@ -7,11 +7,11 @@ This is not an official Google product.
 
 ## Installing
 
-    go get bitbucket.org/zombiezen/clock/...
+    go get github.com/zombiezen/clock/...
 
 ## Documentation
 
-http://godoc.org/bitbucket.org/zombiezen/clock
+http://godoc.org/github.com/zombiezen/clock
 
 ## License
 
