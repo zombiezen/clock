@@ -15,13 +15,13 @@
 */
 
 // Package fakeclock provides a fake implementation of clock.
-package fakeclock
+package fakeclock // import "zombiezen.com/go/clock/fakeclock"
 
 import (
 	"sync"
 	"time"
 
-	"github.com/zombiezen/clock"
+	"zombiezen.com/go/clock"
 )
 
 // Clock implements clock.Clock by maintaining its own time.

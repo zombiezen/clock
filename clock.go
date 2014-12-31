@@ -16,7 +16,7 @@
 
 // Package clock provides an interface for obtaining the current time
 // and sleeping.
-package clock
+package clock // import "zombiezen.com/go/clock"
 
 import (
 	"time"
